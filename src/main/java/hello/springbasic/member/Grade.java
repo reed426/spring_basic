@@ -1,2 +1,6 @@
-package hello.springbasic.member;public enum Grade {
+package hello.springbasic.member;
+
+public enum Grade {
+    BASIC,
+    VIP
 }

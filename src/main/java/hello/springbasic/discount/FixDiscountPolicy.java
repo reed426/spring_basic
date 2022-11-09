@@ -1,4 +1,4 @@
-package hello.springbasic.discout;
+package hello.springbasic.discount;
 
 import hello.springbasic.member.Grade;
 import hello.springbasic.member.Member;
